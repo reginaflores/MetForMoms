@@ -6,7 +6,7 @@ struct HomeView: View {
         ("Colors", "paintpalette.fill", "painting color"),
         ("Nature", "leaf.fill", "landscape nature"),
         ("People", "figure.2.arms.open", "portrait"),
-        ("Castles", "tower.fill", "castle medieval"),
+        ("Castles", "crown.fill", "castle medieval"),
         ("Mythology", "star.fill", "mythology gods"),
         ("Egypt", "pyramid.fill", "egyptian ancient egypt"),
         ("Greece", "building.columns.fill", "greek ancient greece"),
